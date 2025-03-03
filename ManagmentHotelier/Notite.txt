@@ -1,0 +1,15 @@
+Format fisiere Input:
+Hotels.in: Id Nume Locatie
+Rooms.in: Id Nume Pret Disponibilitate IdHotel
+Guests.in: Prenume Nume Email Telefon buget tip(normal/premium) procentReducerePremium
+
+- ce am mai facut de la ultima verificare:
+interactiune cu utilizatorul de la tastatura: selecteaza utilizatorul curent pe baza email, alege camera si rezerva pt un numar de nopti
+reduceri pentru utilizatorii premium: se citeste din fisier care sunt acestia si bugetele sale
+rezervare camera: verifica daca isi permite camera si genereaza rezervarea
+scrierea chitanetei in fisier: daca camera a fost rezervata, utilizatorul poate sa genereze chitanta in fisierul chitanta.txt
+
+-urmeaza: un caz de procesare paralale si doua procese testate automat( trebuie sa scriem cod care testeaza functionalitatiile sau ca procesele sa testeze anumite cazuri?
+de ex: rezervarea sa verifice automat daca oaspetele isi permite camera)
+
+

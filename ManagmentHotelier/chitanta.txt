@@ -1,0 +1,1 @@
+Rezervarea cu numarul 1, camera: 1, oaspetii: Ion Popescu , checkin: Thu Dec 05 19:10:21 EET 2024, checkout: Thu Dec 05 19:10:21 EET 2024, pret final: 300.0
